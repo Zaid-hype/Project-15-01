@@ -1,0 +1,1 @@
+// components/footer.tsx content goes here

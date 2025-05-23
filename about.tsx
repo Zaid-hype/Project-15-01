@@ -1,0 +1,1 @@
+// components/about.tsx content goes here

@@ -1,0 +1,1 @@
+// components/admissions.tsx content goes here
